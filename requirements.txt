@@ -1,4 +1,4 @@
 git+https://github.com/OCA/openupgradelib
-Crypto-Py
+pycrypto
 opencv-python
 numpy
